@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "advance-astrosignature",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "solar-flare-data",
+      "database_id": "72b3b842-08b6-42f8-b6f8-7a7306abde35"
+    }
+  ]
+}
